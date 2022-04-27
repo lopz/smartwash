@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"W",
+				"WASHING"
+			],
+			[
+				"wa",
+				"water"
+			],
+			[
+				"water",
+				"water_level"
+			],
+			[
+				"get",
+				"get_water_level"
+			],
+			[
+				"to_",
+				"to_drain"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"H",
+				"HALF"
+			],
+			[
+				"M",
+				"MININUM"
+			],
+			[
+				"po",
+				"power_state"
+			],
+			[
+				"ma",
+				"machine"
+			],
+			[
+				"bu",
+				"buf"
+			],
+			[
+				"pin_",
+				"pin_pulse"
+			],
+			[
+				"pin",
+				"pin_valve_cold"
+			],
+			[
+				"pin_pu",
+				"pin_pump"
+			],
+			[
+				"pin_mo",
+				"pin_motor_l"
+			],
+			[
+				"pin_v",
+				"pin_valve_cold"
+			],
+			[
+				"pin_va",
+				"pin_valve_cold"
+			],
+			[
+				"pin_valve_o",
+				"pin_valve_hot"
+			],
+			[
+				"pi",
+				"pin_valve_cold"
+			],
+			[
+				"pu",
+				"pump2_pin"
+			],
+			[
+				"pow",
+				"power"
+			],
+			[
+				"p",
+				"pump2_pin"
+			],
+			[
+				"le",
+				"led_pin"
+			],
+			[
+				"atta",
+				"attachInterrupt\tArduino attachInterrupt()"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"digi",
+				"digitalRead\tArduino digitalRead"
+			],
+			[
+				"l",
+				"lport"
+			],
+			[
+				"ser",
+				"serverIP"
+			],
+			[
+				"para",
+				"params_new_order"
+			],
+			[
+				"url",
+				"url_order"
+			],
+			[
+				"url_orde",
+				"url_order_add"
+			],
+			[
+				"url_or",
+				"url_order_get"
+			],
+			[
+				"get_",
+				"get_varshit"
+			],
+			[
+				"fe",
+				"fetch_data"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"b",
+				"birthday"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"si",
+				"sizes"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"so",
+				"soap_ws"
+			],
+			[
+				"S",
+				"SoftwareSerial"
+			],
+			[
+				"u",
+				"uint8_t"
+			],
+			[
+				"dig",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"w",
+				"while\tArduino while"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"serial",
+				"Serial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.ino",
+			"settings":
+			{
+				"buffer_size": 3850,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 163.0,
+		"history":
+		[
+			"pwd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest();print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest();print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s),pleasetry manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), pleasetry manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lopz/dev/electronica/platformio/smartwash",
+		"/home/lopz/dev/electronica/platformio/smartwash/src"
+	],
+	"file_history":
+	[
+		"/home/lopz/dev/electronica/platformio/smartwash/platformio.sublime-project",
+		"/home/lopz/dev/electronica/platformio/swcontrol/src/server.js",
+		"/home/lopz/huaweiDecrypt.py",
+		"/home/lopz/paused.conf",
+		"/home/lopz/out.txt",
+		"/home/lopz/index.html",
+		"/home/lopz/lopz",
+		"/home/lopz/ok_tracerts.txt",
+		"/home/lopz/dev/python/django/smartours/themes/envato.megadrupal.com/html/bookawesome/index.html",
+		"/home/lopz/ok_domains_att.txt",
+		"/home/lopz/descargas/ipasn_20140513.dat",
+		"/home/lopz/dev/python/django/smartours/themes/envato.megadrupal.com/html/bookawesome/css/style.css",
+		"/home/lopz/dev/electronica/platformio/smartcharge/src/main.ino",
+		"/home/lopz/dev/electronica/platformio/sonoff/src/main.ino",
+		"/home/lopz/dev/electronica/platformio/pio/src/Blink.ino",
+		"/home/lopz/stuff/seginfo/tools/reversing/ROMTool/decompiled/classout/com/xiaomi/smarthome/library/crypto/Base64Coder.smali",
+		"/home/lopz/dev/electronica/platformio/smartcharge/src/Blink.ino",
+		"/home/lopz/dev/electronica/platformio/swcontrol/src/Blink.ino",
+		"/home/lopz/dev/electronica/platformio/smartcharge/Server.c",
+		"/home/lopz/Helper.class",
+		"/tmp/xa-vCwLrP/multicore.py",
+		"/home/lopz/dev/electronica/platformio/smartcharge/platformio.sublime-project",
+		"/home/lopz/dev/electronica/platformio/swcontrol/lib/Blink.ino",
+		"/tmp/mozilla_lopz0/motpgen.py",
+		"/home/lopz/dev/electronica/platformio/swcontrol/src/IRrecvDump.ino",
+		"/home/lopz/dev/electronica/sketches/ircemiter/ircemiter.ino",
+		"/home/lopz/dev/electronica/sketches/IRrecvDemo/IRrecvDemo.ino",
+		"/home/lopz/dev/electronica/platformio/swcontrol/lib/IRremoteESP8266/examples/IRsendDemo/IRsendDemo.ino",
+		"/home/lopz/dev/electronica/platformio/swcontrol/IRrecvDump.ino",
+		"/home/lopz/dev/electronica/sketches/acrelay/acrelay.ino",
+		"/home/lopz/dev/electronica/sketches/irscanner/irscanner.ino",
+		"/home/lopz/dev/electronica/sketches/ircemiterON/ircemiterON.ino",
+		"/home/lopz/dev/electronica/platformio/swcontrol/lib/IRremoteESP8266/Contributors.md",
+		"/home/lopz/dev/electronica/sketches/btcontrol/btcontrol.ino",
+		"/home/lopz/dev/python/bottle/aqmobile/groups.py",
+		"/home/lopz/dev/python/bottle/aqmobile/controllers.py",
+		"/home/lopz/dev/python/bottle/aqmobile/env/lib/python2.7/site-packages/facebook.py",
+		"/home/lopz/dev/python/bottle/aqmobile/app.py",
+		"/home/lopz/dev/electronica/platformio/swcontrol/lib/IRremoteESP8266/library.json",
+		"/home/lopz/dev/electronica/arduino/libraries/IRremote/IRremote.cpp",
+		"/home/lopz/dev/electronica/arduino/libraries/IRLremote/IRLremote.h",
+		"/home/lopz/dev/electronica/arduino/libraries/IRLremote/IRLremote.cpp",
+		"/home/lopz/dev/electronica/arduino/libraries/NECIRrcv/examples/printcodes/printcodes.pde",
+		"/home/lopz/dev/electronica/arduino/libraries/NECIRrcv/NECIRrcv.cpp",
+		"/home/lopz/dev/electronica/sketches/testx.c",
+		"/home/lopz/dev/electronica/sketches/acrelay/relays.txt",
+		"/home/lopz/dev/electronica/platformio/swcontrol/.pioenvs/esp01_1m/FrameworkArduino/Udp.h",
+		"/home/lopz/dev/python/bottle/aqmobile/views/index.html",
+		"/home/lopz/dev/python/wazupbot/echoclient/layer.py",
+		"/home/lopz/dev/python/bottle/aqmobile/views/search_code.html",
+		"/home/lopz/dev/web/node/app.js",
+		"/home/lopz/dev/python/bottle/aqmobile/core.py",
+		"/home/lopz/uncapping/show_tech.txt",
+		"/home/lopz/local/etc/asterisk/extensions.conf",
+		"/home/lopz/local/etc/asterisk/extensions_dongle.conf",
+		"/home/lopz/local/etc/asterisk/dongle.conf",
+		"/home/lopz/local/etc/asterisk/sip.conf",
+		"/home/lopz/local/etc/asterisk/users.conf",
+		"/home/lopz/local/etc/asterisk/chan_mobile.conf",
+		"/home/lopz/local/etc/asterisk/extensions.lua",
+		"/home/lopz/local/etc/asterisk/modules.conf",
+		"/home/lopz/local/etc/asterisk/asterisk.conf",
+		"/home/lopz/local/etc/asterisk/extensions.ael",
+		"/home/lopz/local/etc/asterisk/extensions_minivm.conf",
+		"/home/lopz/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/lopz/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/lopz/.config/sublime-text-3/Packages/User/Batch File.sublime-settings",
+		"/home/lopz/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/lopz/dev/python/wazupbot/echoclient/__init__.py",
+		"/home/lopz/dev/python/wazupbot/worker.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/cli/layer.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/__init__.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/interface/interface.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/protocol_messages/protocolentities/message_text.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/protocol_messages/protocolentities/message.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/protocol_receipts/protocolentities/receipt.py",
+		"/home/lopz/dev/python/wazupbot/echoclient/stack.py",
+		"/home/lopz/dev/python/wazupbot/yowsup-cli",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/echoclient/stack.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/echoclient/layer.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/protocol_messages/protocolentities/test_message_text.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/layers/protocol_messages/layer.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/stacks/yowstack.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/cli/stack.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/cli/cli.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/cli/__init__.py",
+		"/home/lopz/dev/python/wazup/yowsup/yowsup/demos/echoclient/__init__.py",
+		"/home/lopz/dev/python/bottle/aqmobile/worker.py",
+		"/home/lopz/apps/sublime_text_3/sublime_text",
+		"/home/lopz/dev/electronica/sketches/acontrol/acontrol.ino",
+		"/home/lopz/AndroidStudioProjects/Domodemo/app/src/main/java/net/rocklabs/domodemo/MainActivity.java",
+		"/home/lopz/dev/mobile/android/sdk/samples/android-15/BluetoothChat/src/com/example/android/BluetoothChat/DeviceListActivity.java",
+		"/home/lopz/dev/mobile/android/sdk/samples/android-15/BluetoothChat/src/com/example/android/BluetoothChat/BluetoothChat.java",
+		"/home/lopz/dev/mobile/android/sdk/samples/android-15/BluetoothChat/src/com/example/android/BluetoothChat/BluetoothChatService.java",
+		"/home/lopz/AndroidStudioProjects/Domodemo/app/src/main/AndroidManifest.xml",
+		"/home/lopz/AndroidStudioProjects/SmartCar/app/src/main/java/net/rocklabs/smartcar/BlueTerm/TermPreferences.java",
+		"/home/lopz/AndroidStudioProjects/SmartCar/app/src/main/java/net/rocklabs/smartcar/BlueTerm/DeviceListActivity.java",
+		"/home/lopz/AndroidStudioProjects/SmartCar/app/src/main/java/net/rocklabs/smartcar/BlueTerm/BluetoothSerialService.java",
+		"/home/lopz/AndroidStudioProjects/SmartCar/app/src/main/java/net/rocklabs/smartcar/BlueTerm/BlueTerm.java",
+		"/home/lopz/dev/mobile/android/sdk/samples/android-15/BluetoothHDP/src/com/example/bluetooth/health/BluetoothHDPService.java",
+		"/home/lopz/dev/mobile/android/sdk/samples/android-15/BluetoothHDP/src/com/example/bluetooth/health/BluetoothHDPActivity.java",
+		"/home/lopz/dev/electronica/arduino/libraries/SoftwareSerial/SoftwareSerial.h",
+		"/home/lopz/dev/electronica/arduino/examples/01.Basics/Blink/Blink.ino",
+		"/home/lopz/dev/electronica/arduino/libraries/SoftwareSerial/SoftwareSerial.cpp",
+		"/home/lopz/dev/electronica/arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp",
+		"/home/lopz/dev/electronica/arduino/hardware/arduino/cores/arduino/Arduino.h",
+		"/home/lopz/dev/electronica/arduino/libraries/SoftwareSerial/keywords.txt",
+		"/home/lopz/dev/electronica/arduino/libraries/SoftwareSerial/examples/SoftwareSerialExample/SoftwareSerialExample.ino",
+		"/home/lopz/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/lopz/dev/electronica/platformio/swcontrol/.pioenvs/esp01_1m",
+			"/home/lopz/dev/electronica/platformio/swcontrol/.pioenvs",
+			"/home/lopz/dev/electronica/platformio/swcontrol/.pioenvs/esp01_1m"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pin_tone",
+			"fill",
+			"172.16.55.227 ",
+			"172.24.",
+			"@.\\r",
+			"@ ",
+			".+on.",
+			"172.16.",
+			"172.21.70.81",
+			"Form item: ",
+			"attachInterrupt",
+			"11000011111101010110100010111000",
+			"0b11000011111101010110100010111000",
+			"irsend",
+			"pulseIR",
+			"wifi_station_set_hostname",
+			"hostname",
+			"ESP_",
+			"Serial",
+			"ESP_",
+			"ESP_0A7D3D",
+			"url_new_order",
+			"&",
+			"self.fetch_data(",
+			"params_auth",
+			"get_varshit",
+			"24022",
+			"24002",
+			"params_search",
+			"sec",
+			"190.104.",
+			"161.22.132.",
+			"161.22.132.246",
+			"directmedia",
+			"nat=",
+			"externrefresh",
+			"md5",
+			"DM5",
+			"10.217.125.179",
+			"nat=",
+			"localnet",
+			"externaddr",
+			"externhost",
+			"nat=",
+			"externhost",
+			"externho",
+			"181.188.148.12",
+			"outgoing_local",
+			"OutgoingReceiptProtocolEntity",
+			"765043096925463",
+			"            \n",
+			"rows",
+			"970",
+			"79",
+			"res",
+			"\"):\n",
+			"print",
+			"5207\r",
+			"Init!\r\nInit!\r\nInit!\r\nInit!\r\n���Init!\r\n���\u0000Init!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\nInit!\r\n",
+			"E",
+			"Init!\r\n207\r\n1\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n0\r\n207\r\n1\r\n207\r\n0\r\n1\r\n207\r\n1\r\n207\r\n0\r\n1\r\n207\r\n0\r\n0\r\n5\r\n4\r\n207\r\n207\r\n207\r\n207\r\n3\r\n2\r\n1\r\n0\r\n207\r\n207\r\n207\r\n207\r\n1\r\n0\r\n1\r\n207\r\n207\r\n207\r\n2\r\n207\r\n207\r\n207\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n207\r\n9\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n8\r\n7\r\n6\r\n5\r\n4\r\n0\r\n207\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n8\r\n7\r\n6\r\n5\r\n4\r\n3\r\n1\r\n0\r\n1\r\n2\r\n3\r\n4\r\n6\r\n7\r\n8\r\n207\r\nInit!\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n",
+			"�������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Init!\r\n",
+			"207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n207\r\n1\r\n207\r\n0\r\n1\r\n207\r\n0\r\n1\r\n2\r\n3\r\n4\r\n5\r\n4\r\n3\r\n2\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n8\r\n7\r\n207\r\n207\r\n5\r\n4\r\n3\r\n2\r\n1\r\n0\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n8\r\n7\r\n6\r\n5\r\n4\r\n3\r\n4\r\n5\r\n6\r\n5\r\n4\r\n3\r\n4\r\n5\r\n6\r\n5\r\n4\r\n3\r\n4\r\n5\r\n6\r\n5\r\n4\r\n3\r\n2\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n1\r\n0\r\n1\r\n2\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n8\r\n7\r\n6\r\n5\r\n4\r\n3\r\n2\r\n1\r\n0\r\n1\r\n2\r\n3\r\n4\r\n5\r\n6\r\n7\r\n8\r\n9\r\n8\r\n7\r\n6\r\n5\r\n4\r\n3\r\n207\r\n207\r\n1\r\n0\r\n1\r\n2\r\n3\r\n4\r\n5\r\n4\r\n3\r\n2\r\n3\r\n4\r\n5\r\n6\r\n5\r\n4\r\n3\r\n2\r\n1\r\n2\r\n3\r\n4\r\n5\r\n",
+			"ConnectThread",
+			"ConnectedThread",
+			"close()",
+			"mSendButton",
+			"connected",
+			"sendMessage",
+			"setupChat",
+			"connectDevice",
+			"RESULT_OK"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2227,
+								2227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "platformio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
